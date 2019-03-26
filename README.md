@@ -44,11 +44,11 @@ On MacOSX, if a ```Gem::FilePermissionError``` is raised due to the Apple's Syst
 Prerequisites: Git
 
 ```shell
-git clone https://github.com/wpscanteam/wpscan
+1. git clone https://github.com/wpscanteam/wpscan
 
-cd wpscan/
+2. cd wpscan/
 
-bundle install && rake install
+3. bundle install && rake install
 ```
 
 # Updating
